@@ -50,8 +50,8 @@ public class Test{
 
 
 }*/
-
-import java.util.*;
+//comparison operators
+/*import java.util.*;
 public class Test{
     public static void main(String[] args) {
         int fisrtNum = 101;
@@ -66,4 +66,37 @@ public class Test{
     }
 
 
-}
+}*/ 
+
+//String Functions
+
+/*import java.io.*;
+class Test{
+    public static void main(String[]args){
+        String firstNum = 10 +"";
+        String secondNum = 16 + "";
+        if(firstNum.compareTo (secondNum)==0)
+        System.out.println("Numbers are eual");
+
+        else{
+            System.out.println("Not equal");
+        }
+    }
+} */
+
+/*import java.util.*;
+public class Test{
+    public static void main(String[] args) {
+        String firstNum = 1 + "";
+        String secondNum = 2 + "";
+
+            if (firstNum.compareTo(secondNum) ==0 )
+                        System.out.println("All true");
+                        else{
+                            System.out.println("All false");
+                        }
+                          }
+    }*/
+
+
+
