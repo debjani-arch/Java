@@ -111,6 +111,25 @@ public class Test{
         }
     }
 }/* */
+//Complement and Bit wise Operator
+
+import java.util.*;
+public class Test{
+    public static void main(String[] args) {
+        int firstNum = 109;
+        int secondNum = 180;
+
+        if ((firstNum & ~secondNum)==0
+        
+       && ((~firstNum & secondNum)==0))
+        System.out.println("nums eual");
+        else{
+            System.out.println("Not equal");
+        }
+
+    }
+
+}
 
 
 
