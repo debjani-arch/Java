@@ -98,5 +98,19 @@ public class Test{
                           }
     }*/
 
+//XOR OPERATIONS
+
+/*public class Test{
+    public static void main(String[] args) {
+        int firstNum = 101;
+        int secondNum = 101;
+        if ((firstNum ^ secondNum) == 0)
+        System.out.println("Nums are equal");
+        else{
+            System.out.println("Not eual");
+        }
+    }
+}/* */
+
 
 
